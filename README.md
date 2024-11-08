@@ -41,7 +41,7 @@ You can install scriptura app in your smarthpone android
 
 **Download here:**
 
-<button>[Download]()</button>
+<button>[Download](https://github.com/Christianymoon/Scriptura/releases/download/v1.0.0/ScripturaV1.0.0.apk)</button>
 
 [def]: "docs\screenshot_1.jpg"
 
