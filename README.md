@@ -13,7 +13,7 @@ Aplicación de tareas sencilla con Flet y Python
 - [iOS](#ios) ![apple](./docs/apple.svg)
 - [Changelog](#changelog)
 - [Soporte](#soporte)
-- [Más] (#mas)
+- [Más](#mas)
 # Desarrollo
 
 Para iniciar la aplicacion en modo desarrollo
